@@ -6,9 +6,9 @@ A basic React Native app that lets you create soundboards with custom soundbites
 
 ## About
 
-This project is the last one of our degree's year of web project and mobile. It's about creating an app wich allow to register and play sounds develloped in react-native.
+This project is the last one of our degree's year of web project and mobile. It's about creating an app wich allow to register and play sounds developed in react-native.
 
-Anyway, this app allows a user to create a soundboard, create one or more groups under that soundboard,
+This app allows a user to create a soundboard, create one or more groups under that soundboard,
 and record custom sounds using their device. These sounds can be saved and played back, for the ultimate
 meme-inducing experience.
 
